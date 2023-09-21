@@ -1,0 +1,34 @@
+# bash resources
+
+## Exercises
+
+https://exercism.org/tracks/bash/about
+https://exercism.org/tracks/bash/exercises/error-handling
+
+## Manuals
+
+https://www.man7.org/linux/man-pages/man1/bash.1.html
+https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+
+## man pages
+
+https://www.man7.org/linux/man-pages/man1/test.1.html
+https://man7.org/linux/man-pages/man1/grep.1.html
+
+## Tutorials
+
+https://ryanstutorials.net/bash-scripting-tutorial/
+
+## References
+
+https://www.geeksforgeeks.org/how-to-pass-and-parse-linux-bash-script-arguments-and-parameters/
+https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
+https://www.freecodecamp.org/news/bash-array-how-to-declare-an-array-of-strings-in-a-bash-script/
+
+How To Properly End A Bash Shell Script: Best Practices And Tips
+https://marketsplash.com/tutorials/bash-shell/how-to-end-bash-shell-script/
+
+## Tools
+
+https://www.onlinegdb.com/online_bash_shell
+
